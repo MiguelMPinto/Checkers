@@ -17,12 +17,3 @@ This repository contains two iterations of a Checkers project. The first work fo
 ## Tech stack
 
 - Kotlin
-- Gradle
-- Compose Desktop
-- MongoDB Kotlin driver
-- JUnit / Kotlin test
-
-## Repository structure
-
-```text
-Trabalho1/  First project iteration
