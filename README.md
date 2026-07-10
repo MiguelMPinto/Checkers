@@ -18,4 +18,4 @@ This repository contains two iterations of the project:
 
 ## Notes
 
-This repository was developed in an academic context. Some setup details may need adaptation
+This repository was developed in an academic context. Some
