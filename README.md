@@ -1,14 +1,21 @@
 # Checkers
 
-Kotlin implementation of a **Checkers / Draughts** game, developed as an academic project at ISEL.
+Kotlin implementation of a Checkers / Draughts game, developed as an academic project at ISEL.
 
 ## Overview
 
-This repository contains two iterations of a Checkers project. The first work focuses on the core Kotlin/JVM implementation, while the second work extends the project with a desktop UI and persistence-oriented dependencies.
+This repository contains two iterations of the project:
 
-## Main features
+- `Trabalho1`: first Kotlin/JVM implementation.
+- `Trabalho2`: second iteration with Compose Desktop and persistence-related dependencies.
 
-- Checkers game logic
-- Kotlin/JVM implementation
-- Two-stage academic project structure
-- Desktop UI version
+## Tech stack
+
+- Kotlin
+- Gradle
+- Compose Desktop
+- MongoDB Kotlin driver
+
+## Notes
+
+This repository was developed in an academic context. Some setup details may need adaptation
